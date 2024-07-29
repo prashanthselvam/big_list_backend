@@ -1,5 +1,23 @@
-python-dateutil @ file:///private/tmp/python-dateutil-20231119-4809-10tr8ez/python-dateutil-2.8.2
-python-magic @ file:///private/tmp/python-magic-20231123-5210-sxkkq2/python-magic-0.4.27
-s3cmd @ file:///private/tmp/s3cmd-20231211-5006-zip2v9/s3cmd-2.4.0
+amqp==5.2.0
+asgiref==3.8.1
+billiard==4.2.0
+celery==5.4.0
+click==8.1.7
+click-didyoumean==0.3.1
+click-plugins==1.1.1
+click-repl==0.3.0
+Django==5.0.7
+django-cors-headers==4.4.0
+django-extensions==3.2.3
+django-filter==24.2
+djangorestframework==3.15.2
+Faker==26.0.0
+kombu==5.3.7
+prompt_toolkit==3.0.47
+python-dateutil==2.9.0.post0
+redis==5.0.7
 six==1.16.0
-wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.4/libexec/wheel-0.43.0-py3-none-any.whl#sha256=ff23205a590f2b902a2a21151019e96b93ab4a1409d7c9748b6bd210f4c0f44d
+sqlparse==0.5.1
+tzdata==2024.1
+vine==5.1.0
+wcwidth==0.2.13
