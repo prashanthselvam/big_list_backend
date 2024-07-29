@@ -1,0 +1,5 @@
+python-dateutil @ file:///private/tmp/python-dateutil-20231119-4809-10tr8ez/python-dateutil-2.8.2
+python-magic @ file:///private/tmp/python-magic-20231123-5210-sxkkq2/python-magic-0.4.27
+s3cmd @ file:///private/tmp/s3cmd-20231211-5006-zip2v9/s3cmd-2.4.0
+six==1.16.0
+wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.4/libexec/wheel-0.43.0-py3-none-any.whl#sha256=ff23205a590f2b902a2a21151019e96b93ab4a1409d7c9748b6bd210f4c0f44d
